@@ -1,0 +1,19 @@
+https://github.com/talkcoin/nist5_hash
+
+setup.py
+nist5_hash_module ==> hashBomb_module
+nist5module.c ==> hashBomb_module.c
+nist5.c ==> hashBomb.c
+nist5hash ==> hashBomb_hash
+nist5_hashs ==> hashBomb_hashs
+
+hashBomb.c and hashBomb.h
+NIST5_H ==> HASHBOMB_H
+nist5.h ==> hashBomb.h
+nist5_hash ==> hashBomb_1024 or hashBomb_1536 or hashBomb_2048
+
+hashBomb_module.c
+nist5_getpowhash ==> hashBomb_getpowhash
+nist5_hash ==> hashBomb_2048
+XcoinMethods ==> HashBombMethods
+XcoinModule ==> HashBombModule
